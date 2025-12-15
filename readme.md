@@ -9,6 +9,7 @@ _A data-driven project to predict the customer churn and identify critical risk 
 - <a href="#project-goal">Project Goal</a>
 - <a href="#dataset-summary">Dataset Summary</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
+- <a href="#project-structure">Project Structure</a>
 - <a href="#data-analysis-sql">Data Analysis (EDA)</a>
 - <a href="#model-prediction--key-findings">Model Prediction & Key Findings</a>
 - <a href="#dashboard">Dashboard</a>
