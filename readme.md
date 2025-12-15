@@ -108,7 +108,7 @@ A comprehensive report and dashboard was created to visualize key performance in
     * Churn Rate by Age Group.
     * Summary of Predicted Churners.
 
-![Customer Churn Analysis](dashboard/dashboard.png)
+![Customer Churn Analysis](images/dashboard.png)
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
